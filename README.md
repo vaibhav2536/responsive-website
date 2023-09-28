@@ -1,2 +1,2 @@
 # responsive-website
-Responsive website using HTML,CSS with power and elegance of bootstrap.
+Employing the robust and sophisticated capabilities of Bootstrap for optimal cross-device and cross-browser compatibility.
